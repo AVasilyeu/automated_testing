@@ -1,4 +1,9 @@
+#First assignment for the Git course
 *.db
 *.log
 target/
 bin/
+
+#Ignore IDEA files and configs
+*.iml
+.idea/
